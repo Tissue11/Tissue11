@@ -40,3 +40,32 @@
 <div>
   <img src= "https://github-profile-trophy.vercel.app/?username=Tissue11" alt=""/>
 </div>
+
+
+### ⌨️ Наиболее используемые языки : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
