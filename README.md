@@ -44,6 +44,17 @@
 
 ### ⌨️ Наиболее используемые языки : 
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tissue11" alt=""/>
+</div>
+
+
+### 📊 Cтатистика активности :
+
+<div>
+  <img src= "https://github-readme-activity-graph.vercel.app/graph?username=Tissue11&theme=github" alt=""/>
+</div>
+
 
 
 
