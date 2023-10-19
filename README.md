@@ -24,5 +24,16 @@
 
 -⛹️‍♂️:факт обо мне
 
-### 🛠️: Языки и инструменты
+### 🛠️: Языки и инструменты :
+
+<div>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg"/>
+    
+</div>
+
 
